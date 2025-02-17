@@ -1,0 +1,18 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "AB_programacion.exe",
+      "name": "AB_programacion"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "AB_programacion.exe",
+      "name": "AB_programacion.exe"
+    }
+  ]
+}
