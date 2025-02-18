@@ -65,8 +65,7 @@
               "RelativeToolTip": "CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-02-18T00:47:53.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:47:53.234Z"
             },
             {
               "$type": "Document",
@@ -78,8 +77,7 @@
               "RelativeToolTip": "src\\paciente.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-18T00:47:47.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:47:47.284Z"
             },
             {
               "$type": "Document",
@@ -91,8 +89,7 @@
               "RelativeToolTip": "src\\medico.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-18T00:47:36.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:47:36.563Z"
             },
             {
               "$type": "Document",
@@ -104,8 +101,7 @@
               "RelativeToolTip": "src\\citamedica.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-18T00:46:48.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:46:48.216Z"
             },
             {
               "$type": "Document",
@@ -117,8 +113,7 @@
               "RelativeToolTip": "include\\paciente.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-18T00:46:39.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:46:39.496Z"
             },
             {
               "$type": "Document",
@@ -130,8 +125,7 @@
               "RelativeToolTip": "include\\medico.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-18T00:46:26.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:46:26.968Z"
             },
             {
               "$type": "Document",
@@ -154,7 +148,7 @@
               "RelativeDocumentMoniker": "include\\citamedica.h",
               "ToolTip": "C:\\Users\\G513\\Documents\\GitHub\\AB_programacion\\AB_programacion\\include\\citamedica.h",
               "RelativeToolTip": "include\\citamedica.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-02-18T00:25:33.678Z",
               "EditorCaption": ""
@@ -169,8 +163,7 @@
               "RelativeToolTip": "src\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-17T17:38:56.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T17:38:56.391Z"
             },
             {
               "$type": "Document",
@@ -179,8 +172,7 @@
               "DocumentMoniker": "P\u00E1ginas de informaci\u00F3n general de CMake",
               "ToolTip": "P\u00E1ginas de informaci\u00F3n general de CMake",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-17T17:38:43.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T17:38:43.163Z"
             }
           ]
         }
