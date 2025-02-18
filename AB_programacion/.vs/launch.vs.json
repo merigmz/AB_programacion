@@ -3,16 +3,10 @@
   "defaults": {},
   "configurations": [
     {
-      "type": "default",
+      "name": "AB_programacion.exe (bin\\AB_programacion.exe)",
       "project": "CMakeLists.txt",
-      "projectTarget": "AB_programacion.exe",
-      "name": "AB_programacion"
-    },
-    {
-      "type": "default",
-      "project": "CMakeLists.txt",
-      "projectTarget": "AB_programacion.exe",
-      "name": "AB_programacion.exe"
+      "projectTarget": "AB_programacion",
+      "type": "default"
     }
   ]
 }

@@ -1,3 +1,0 @@
-C:/Users/G513/Documents/GitHub/AB_programacion/AB_programacion/out/build/x64-Debug/CMakeFiles/AB_programacion.dir
-C:/Users/G513/Documents/GitHub/AB_programacion/AB_programacion/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/G513/Documents/GitHub/AB_programacion/AB_programacion/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

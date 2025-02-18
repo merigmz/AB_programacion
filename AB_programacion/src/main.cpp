@@ -27,19 +27,19 @@ void agregarPaciente() {
 void agregarMedico() {
     std::string nombre, especialidad;
 
-    std::cout << "Ingrese nombre del médico: ";
+    std::cout << "Ingrese nombre del medico: ";
     std::getline(std::cin, nombre);
 
-    std::cout << "Ingrese especialidad del médico: ";
+    std::cout << "Ingrese especialidad del medico: ";
     std::getline(std::cin, especialidad);
 
     medicos.push_back(Medico(nombre, especialidad));
-    std::cout << "Médico agregado correctamente.\n";
+    std::cout << "Medico agregado correctamente.\n";
 }
 
 void agregarCita() {
     if (pacientes.empty() || medicos.empty()) {
-        std::cout << "Debe haber al menos un paciente y un médico registrados.\n";
+        std::cout << "Debe haber al menos un paciente y un medico registrados.\n";
         return;
     }
 
@@ -58,20 +58,20 @@ void agregarCita() {
     }
 
     int pacienteIdx;
-    std::cout << "Seleccione el número del paciente: ";
+    std::cout << "Seleccione el numero del paciente: ";
     std::cin >> pacienteIdx;
     std::cin.ignore();
     pacienteIdx--;
 
-    // Mostrar médicos disponibles
-    std::cout << "\nMédicos disponibles:\n";
+    // Mostrar medicos disponibles
+    std::cout << "\nMedicos disponibles:\n";
     for (size_t i = 0; i < medicos.size(); i++) {
         std::cout << i + 1 << ". " << medicos[i].getNombre()
             << " - " << medicos[i].getEspecialidad() << "\n";
     }
 
     int medicoIdx;
-    std::cout << "Seleccione el número del médico: ";
+    std::cout << "Seleccione el número del medico: ";
     std::cin >> medicoIdx;
     std::cin.ignore();
     medicoIdx--;
@@ -84,7 +84,7 @@ void agregarCita() {
         std::cout << "Cita agregada correctamente.\n";
     }
     else {
-        std::cout << "Índices inválidos.\n";
+        std::cout << "Indices invalidos.\n";
     }
 }
 
@@ -99,7 +99,7 @@ void mostrarCitas() {
         std::cout << "\nFecha: " << cita.getFecha()
             << "\nHora: " << cita.getHora()
             << "\nPaciente: " << cita.getPaciente().getNombre()
-            << "\nMédico: " << cita.getMedico().getNombre()
+            << "\nMedico: " << cita.getMedico().getNombre()
             << "\nEspecialidad: " << cita.getMedico().getEspecialidad()
             << "\n-----------------\n";
     }
@@ -107,13 +107,13 @@ void mostrarCitas() {
 
 int main() {
     while (true) {
-        std::cout << "\nSistema de Gestión de Citas Médicas\n";
+        std::cout << "\nSistema de Gestion de Citas Medicas\n";
         std::cout << "1. Agregar Paciente\n";
-        std::cout << "2. Agregar Médico\n";
+        std::cout << "2. Agregar Medico\n";
         std::cout << "3. Agregar Cita\n";
         std::cout << "4. Mostrar Citas\n";
         std::cout << "5. Salir\n";
-        std::cout << "Seleccione una opción: ";
+        std::cout << "Seleccione una opcion: ";
 
         int opcion;
         std::cin >> opcion;
@@ -135,7 +135,7 @@ int main() {
         case 5:
             return 0;
         default:
-            std::cout << "Opción inválida.\n";
+            std::cout << "Opcion invalida.\n";
         }
     }
 

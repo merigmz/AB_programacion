@@ -33,7 +33,9 @@ set(HEADERS
 )
 
 # Crear el ejecutable
-add_executable(${PROJECT_NAME} ${SOURCES} ${HEADERS})
+add_executable(AB_programacion ${SOURCES} ${HEADERS})
+
+
 
 # Agregar directorios de inclusión
 target_include_directories(${PROJECT_NAME} PRIVATE

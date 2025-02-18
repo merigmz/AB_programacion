@@ -1,6 +1,0 @@
-# ninja log v6
-3	584	7615135246373696	CMakeFiles/AB_programacion.dir/src/main.cpp.obj	cffa9ef123fc4b4c
-21	359	7615135449194173	CMakeFiles/AB_programacion.dir/src/medico.cpp.obj	8480891a92926573
-25	361	7615135449239288	CMakeFiles/AB_programacion.dir/src/paciente.cpp.obj	f95f04b5616d8fae
-16	363	7615135449079059	CMakeFiles/AB_programacion.dir/src/citamedica.cpp.obj	9fbf7da41aa259a4
-363	601	7615135452537238	bin/AB_programacion.exe	5498e0f649a6a3cf
